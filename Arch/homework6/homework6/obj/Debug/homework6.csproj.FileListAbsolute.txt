@@ -1,0 +1,8 @@
+c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\bin\Debug\homework6.exe.config
+c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\bin\Debug\homework6.exe
+c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\bin\Debug\homework6.pdb
+c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\obj\Debug\homework6.Form1.resources
+c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\obj\Debug\homework6.Properties.Resources.resources
+c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\obj\Debug\homework6.csproj.GenerateResource.Cache
+c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\obj\Debug\homework6.exe
+c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\obj\Debug\homework6.pdb

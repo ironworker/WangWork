@@ -1,0 +1,9 @@
+c:\users\401\documents\visual studio 2012\Projects\HW4p2\HW4p2\bin\Debug\HW4p2.exe.config
+c:\users\401\documents\visual studio 2012\Projects\HW4p2\HW4p2\bin\Debug\HW4p2.exe
+c:\users\401\documents\visual studio 2012\Projects\HW4p2\HW4p2\bin\Debug\HW4p2.pdb
+c:\users\401\documents\visual studio 2012\Projects\HW4p2\HW4p2\obj\Debug\HW4p2.csprojResolveAssemblyReference.cache
+c:\users\401\documents\visual studio 2012\Projects\HW4p2\HW4p2\obj\Debug\HW4p2.Form1.resources
+c:\users\401\documents\visual studio 2012\Projects\HW4p2\HW4p2\obj\Debug\HW4p2.Properties.Resources.resources
+c:\users\401\documents\visual studio 2012\Projects\HW4p2\HW4p2\obj\Debug\HW4p2.csproj.GenerateResource.Cache
+c:\users\401\documents\visual studio 2012\Projects\HW4p2\HW4p2\obj\Debug\HW4p2.exe
+c:\users\401\documents\visual studio 2012\Projects\HW4p2\HW4p2\obj\Debug\HW4p2.pdb

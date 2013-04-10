@@ -1,0 +1,9 @@
+c:\users\401\documents\visual studio 2012\Projects\HW6\HW6\obj\Debug\HW6.Form1.resources
+c:\users\401\documents\visual studio 2012\Projects\HW6\HW6\obj\Debug\HW6.Properties.Resources.resources
+c:\users\401\documents\visual studio 2012\Projects\HW6\HW6\obj\Debug\HW6.csproj.GenerateResource.Cache
+c:\users\401\documents\visual studio 2012\Projects\HW6\HW6\bin\Debug\HW6.exe.config
+c:\users\401\documents\visual studio 2012\Projects\HW6\HW6\bin\Debug\HW6.exe
+c:\users\401\documents\visual studio 2012\Projects\HW6\HW6\bin\Debug\HW6.pdb
+c:\users\401\documents\visual studio 2012\Projects\HW6\HW6\obj\Debug\HW6.exe
+c:\users\401\documents\visual studio 2012\Projects\HW6\HW6\obj\Debug\HW6.pdb
+c:\users\401\documents\visual studio 2012\Projects\HW6\HW6\obj\Debug\HW6.csprojResolveAssemblyReference.cache

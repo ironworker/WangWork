@@ -1,0 +1,6 @@
+c:\users\401\documents\visual studio 2012\Projects\HW5p1\HW5p1\bin\Debug\HW5p1.exe.config
+c:\users\401\documents\visual studio 2012\Projects\HW5p1\HW5p1\obj\Debug\HW5p1.csprojResolveAssemblyReference.cache
+C:\Users\401\Documents\Visual Studio 2012\Projects\HW5p1\HW5p1\bin\Debug\HW5p1.exe
+C:\Users\401\Documents\Visual Studio 2012\Projects\HW5p1\HW5p1\bin\Debug\HW5p1.pdb
+C:\Users\401\Documents\Visual Studio 2012\Projects\HW5p1\HW5p1\obj\Debug\HW5p1.exe
+C:\Users\401\Documents\Visual Studio 2012\Projects\HW5p1\HW5p1\obj\Debug\HW5p1.pdb

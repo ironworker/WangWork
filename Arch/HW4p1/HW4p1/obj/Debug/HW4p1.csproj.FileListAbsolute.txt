@@ -1,0 +1,6 @@
+c:\users\401\documents\visual studio 2012\Projects\HW4p1\HW4p1\bin\Debug\HW4p1.exe.config
+c:\users\401\documents\visual studio 2012\Projects\HW4p1\HW4p1\bin\Debug\HW4p1.exe
+c:\users\401\documents\visual studio 2012\Projects\HW4p1\HW4p1\bin\Debug\HW4p1.pdb
+c:\users\401\documents\visual studio 2012\Projects\HW4p1\HW4p1\obj\Debug\HW4p1.csprojResolveAssemblyReference.cache
+c:\users\401\documents\visual studio 2012\Projects\HW4p1\HW4p1\obj\Debug\HW4p1.exe
+c:\users\401\documents\visual studio 2012\Projects\HW4p1\HW4p1\obj\Debug\HW4p1.pdb
