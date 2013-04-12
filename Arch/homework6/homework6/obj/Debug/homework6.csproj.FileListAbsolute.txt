@@ -6,3 +6,12 @@ c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\obj\Debug
 c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\obj\Debug\homework6.csproj.GenerateResource.Cache
 c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\obj\Debug\homework6.exe
 c:\users\401\documents\visual studio 2012\Projects\homework6\homework6\obj\Debug\homework6.pdb
+C:\Users\401\Documents\GitHub\WangWork\Arch\homework6\homework6\bin\Debug\homework6.exe.config
+C:\Users\401\Documents\GitHub\WangWork\Arch\homework6\homework6\obj\Debug\homework6.exe
+C:\Users\401\Documents\GitHub\WangWork\Arch\homework6\homework6\obj\Debug\homework6.pdb
+C:\Users\401\Documents\GitHub\WangWork\Arch\homework6\homework6\obj\Debug\homework6.csprojResolveAssemblyReference.cache
+C:\Users\401\Documents\GitHub\WangWork\Arch\homework6\homework6\obj\Debug\homework6.Form1.resources
+C:\Users\401\Documents\GitHub\WangWork\Arch\homework6\homework6\obj\Debug\homework6.Properties.Resources.resources
+C:\Users\401\Documents\GitHub\WangWork\Arch\homework6\homework6\obj\Debug\homework6.csproj.GenerateResource.Cache
+C:\Users\401\Documents\GitHub\WangWork\Arch\homework6\homework6\bin\Debug\homework6.exe
+C:\Users\401\Documents\GitHub\WangWork\Arch\homework6\homework6\bin\Debug\homework6.pdb
